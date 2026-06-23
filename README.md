@@ -26,6 +26,6 @@ This website aims to spread awareness about the work of InAmigos Foundation and 
 
 ## Live Website
 
-🔗 **Website:** [Paste your deployed Vercel link here]
+🔗 **Website:** (https://github.com/Meghnaa-n/Inamigos-website)
 
 
