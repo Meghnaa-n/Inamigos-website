@@ -26,6 +26,6 @@ This website aims to spread awareness about the work of InAmigos Foundation and 
 
 ## Live Website
 
-🔗 **Website:** (https://github.com/Meghnaa-n/Inamigos-website)
+🔗 **Website:** (https://inamigos-website-peach.vercel.app)
 
 
